@@ -44,7 +44,8 @@ async function doUserAction(event) {
 }
 
 // Get greeting from the contract on chain
-async function fetchGreeting() {
+async function 
+fetchGreeting() {
   const currentGreeting = await contract.getGreeting();
 
   document.querySelectorAll('[data-behavior=greeting]').forEach(el => {
