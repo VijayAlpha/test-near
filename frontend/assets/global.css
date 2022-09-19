@@ -32,7 +32,7 @@ main {
 main.please-wait {}
 
 h1 {
-  background-image: url(./logo-black.svg);
+  background-image: url(./kkd-logo.jpg);
   background-position: center 1em;
   background-repeat: no-repeat;
   background-size: auto 1.5em;
@@ -177,7 +177,7 @@ li {
     --light-gray: #444;
   }
   h1 {
-    background-image: url(./logo-white.svg);
+    background-image: url(./kkd-logo.jpg);
   }
   input:focus {
     box-shadow: 0 0 10em rgba(255, 255, 255, 0.02) inset;
